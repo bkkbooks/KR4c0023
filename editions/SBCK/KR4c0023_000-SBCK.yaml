@@ -1,0 +1,18 @@
+canonical_identifier: bkk:krp/KR4c0023/SBCK/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 􅅏
+  hash: sha256:2db30dd7045688b3ba8880fd65bfa93754680fc4d9444e4edfdcd18429727558
+metadata:
+  title: 高常侍集
+  edition:
+    short: SBCK
+    label: 【四部叢刊】
+  date: '2015-08-24 23:46:34.410683'
+  source:
+    repository: kanripo
+    path: KR4c0023/KR4c0023_000.txt
+hash: sha256:20f08dc2f24f96f8622af39d3a967363d8e508fb1134bcdfadd4e06a6da39225
