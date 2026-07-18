@@ -161,6 +161,7 @@ markers:
   - {type: substitution, offset: 89, original: 迴, replacement: 回, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-20169}}
   - {type: variant, offset: 95, length: 63, content: 一十二字循環有數一作理若寒暑之遞遷應變無窮謂隂陽之莫測誡其子曰吾殁之後爾宻記之當逢大道之朝必遇非常之主則真圖之製便可上言君親之, SBCK: 代存威稜懾沙漠忠}
   - {type: punctuation, offset: 103, content: (, id: KR4c0023_krp_010-bkkpn1}
+  - {type: voice, offset: 103, length: 3, name: note, id: n1}
   - {type: punctuation, offset: 105, content: /, id: KR4c0023_krp_010-bkkpn2}
   - {type: punctuation, offset: 106, content: ), id: KR4c0023_krp_010-bkkpn3}
   - {type: 'kr:newline', offset: 108, content: '
@@ -828,4 +829,4 @@ markers:
   - {type: page-break, offset: 2187, content: '', id: KR4c0023_SBCK_008-5b}
   - {type: page-break, offset: 2187, content: '', id: KR4c0023_SBCK_008-6a}
   back: []
-hash: sha256:cd13be0b602a9061fe45a1968ffd6835a99b241449dc34abb103547505763c6a
+hash: sha256:43a5c058a12bf5cb0b93c8a20826e0a6265d52119a7f4720e3cd5f5cda51b44a

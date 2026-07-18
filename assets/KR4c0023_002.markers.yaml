@@ -32,6 +32,7 @@ markers:
   - {type: line-break, offset: 11, content: '', id: KR4c0023_WYG_002-1a05}
   - {type: indent, offset: 11, content: 　　　, id: KR4c0023_krp_002-bkkind6}
   - {type: punctuation, offset: 21, content: (, id: KR4c0023_krp_002-bkkpn1}
+  - {type: voice, offset: 21, length: 5, name: note, id: n1}
   - {type: punctuation, offset: 24, content: /, id: KR4c0023_krp_002-bkkpn2}
   - {type: punctuation, offset: 26, content: ), id: KR4c0023_krp_002-bkkpn3}
   - {type: 'kr:newline', offset: 26, content: '
@@ -99,6 +100,7 @@ markers:
   - {type: line-break, offset: 260, content: '', id: KR4c0023_WYG_002-2a01}
   - {type: indent, offset: 260, content: 　　　, id: KR4c0023_krp_002-bkkind7}
   - {type: punctuation, offset: 268, content: (, id: KR4c0023_krp_002-bkkpn4}
+  - {type: voice, offset: 268, length: 3, name: note, id: n2}
   - {type: punctuation, offset: 271, content: /, id: KR4c0023_krp_002-bkkpn5}
   - {type: punctuation, offset: 271, content: ), id: KR4c0023_krp_002-bkkpn6}
   - {type: 'kr:newline', offset: 271, content: '
@@ -164,6 +166,7 @@ markers:
   - {type: line-break, offset: 464, content: '', id: KR4c0023_WYG_002-2b05}
   - {type: indent, offset: 464, content: 　　　, id: KR4c0023_krp_002-bkkind10}
   - {type: punctuation, offset: 474, content: (, id: KR4c0023_krp_002-bkkpn7}
+  - {type: voice, offset: 474, length: 3, name: note, id: n3}
   - {type: punctuation, offset: 477, content: /, id: KR4c0023_krp_002-bkkpn8}
   - {type: punctuation, offset: 477, content: ), id: KR4c0023_krp_002-bkkpn9}
   - {type: 'kr:newline', offset: 477, content: '
@@ -216,6 +219,7 @@ markers:
   - {type: line-break, offset: 604, content: '', id: KR4c0023_WYG_002-3a05}
   - {type: punctuation, offset: 612, content: (, id: KR4c0023_krp_002-bkkpn10}
   - {type: variant, offset: 612, length: 3, content: 一作常, SBCK: ''}
+  - {type: voice, offset: 612, length: 3, name: note, id: n4}
   - {type: punctuation, offset: 614, content: /, id: KR4c0023_krp_002-bkkpn11}
   - {type: punctuation, offset: 615, content: ), id: KR4c0023_krp_002-bkkpn12}
   - {type: variant, offset: 621, length: 1, content: 附, SBCK: 厚}
@@ -262,6 +266,7 @@ markers:
   - {type: variant, offset: 700, length: 1, content: 隴, SBCK: 壠}
   - {type: punctuation, offset: 712, content: (, id: KR4c0023_krp_002-bkkpn13}
   - {type: variant, offset: 712, length: 3, content: 一作客, SBCK: ''}
+  - {type: voice, offset: 712, length: 3, name: note, id: n5}
   - {type: punctuation, offset: 714, content: /, id: KR4c0023_krp_002-bkkpn14}
   - {type: punctuation, offset: 715, content: ), id: KR4c0023_krp_002-bkkpn15}
   - {type: 'kr:newline', offset: 717, content: '
@@ -285,6 +290,7 @@ markers:
   - {type: line-break, offset: 745, content: '', id: KR4c0023_WYG_002-3b06}
   - {type: substitution, offset: 747, original: 㡬, replacement: 幾, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19434}}
   - {type: punctuation, offset: 754, content: (, id: KR4c0023_krp_002-bkkpn16}
+  - {type: voice, offset: 754, length: 3, name: note, id: n6}
   - {type: variant, offset: 755, length: 69, content: 作復閑﨑嶇出長坂合㳫猶前山石激水流處天寒松色間王程應未盡且莫顧刀鐶河西送李十七邊城多逺別此去莫徒然問禮知才子登科及少年出門看落日驅馬向秋天, SBCK: ''}
   - {type: punctuation, offset: 756, content: /, id: KR4c0023_krp_002-bkkpn17}
   - {type: punctuation, offset: 757, content: ), id: KR4c0023_krp_002-bkkpn18}
@@ -377,6 +383,7 @@ markers:
   - {type: indent, offset: 959, content: 　　　, id: KR4c0023_krp_002-bkkind20}
   - {type: variant, offset: 959, length: 75, content: 同熊少府題盧主簿茆齋盧兼有人倫虚院野情在茆齋秋興存孝㢘趨下位才子出髙門乃繼幽人靜能令學者尊江山歸謝客神鬼下劉根階樹時攀折䆫書任討論自堪成獨徃何必武陵源, SBCK: ''}
   - {type: punctuation, offset: 969, content: (, id: KR4c0023_krp_002-bkkpn19}
+  - {type: voice, offset: 969, length: 5, name: note, id: n7}
   - {type: punctuation, offset: 972, content: /, id: KR4c0023_krp_002-bkkpn20}
   - {type: punctuation, offset: 974, content: ), id: KR4c0023_krp_002-bkkpn21}
   - {type: 'kr:newline', offset: 974, content: '
@@ -482,12 +489,14 @@ markers:
   - {type: line-break, offset: 1230, content: '', id: KR4c0023_WYG_002-5b02}
   - {type: punctuation, offset: 1234, content: (, id: KR4c0023_krp_002-bkkpn22}
   - {type: variant, offset: 1234, length: 3, content: 一作清, SBCK: ''}
+  - {type: voice, offset: 1234, length: 3, name: note, id: n8}
   - {type: punctuation, offset: 1236, content: /, id: KR4c0023_krp_002-bkkpn23}
   - {type: punctuation, offset: 1237, content: ), id: KR4c0023_krp_002-bkkpn24}
   - {type: variant, offset: 1239, length: 1, content: 寜, SBCK: 寧}
   - {type: substitution, offset: 1239, original: 寜, replacement: 寧, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19886}}
   - {type: punctuation, offset: 1247, content: (, id: KR4c0023_krp_002-bkkpn25}
   - {type: variant, offset: 1247, length: 4, content: 一作愛水, SBCK: 氷}
+  - {type: voice, offset: 1247, length: 3, name: note, id: n9}
   - {type: punctuation, offset: 1249, content: /, id: KR4c0023_krp_002-bkkpn26}
   - {type: punctuation, offset: 1250, content: ), id: KR4c0023_krp_002-bkkpn27}
   - {type: 'kr:newline', offset: 1253, content: '
@@ -616,6 +625,7 @@ markers:
   - {type: indent, offset: 1508, content: 　　　, id: KR4c0023_krp_002-bkkind24}
   - {type: variant, offset: 1508, length: 47, content: 醉後贈張九旭世上謾相識此翁殊不然興来書自聖醉後語尤顛白髪老閑事青雲在目前床頭一壺酒能更㡬囬眠詶, SBCK: 酬}
   - {type: punctuation, offset: 1513, content: (, id: KR4c0023_krp_002-bkkpn28}
+  - {type: voice, offset: 1513, length: 1, name: note, id: n10}
   - {type: punctuation, offset: 1514, content: /, id: KR4c0023_krp_002-bkkpn29}
   - {type: punctuation, offset: 1514, content: ), id: KR4c0023_krp_002-bkkpn30}
   - {type: 'kr:newline', offset: 1514, content: '
@@ -731,6 +741,7 @@ markers:
       ', id: KR4c0023_krp_002-bkkkrnewl121}
   - {type: line-break, offset: 1816, content: '', id: KR4c0023_WYG_002-7b05}
   - {type: punctuation, offset: 1825, content: (, id: KR4c0023_krp_002-bkkpn31}
+  - {type: voice, offset: 1825, length: 3, name: note, id: n11}
   - {type: punctuation, offset: 1827, content: /, id: KR4c0023_krp_002-bkkpn32}
   - {type: punctuation, offset: 1828, content: ), id: KR4c0023_krp_002-bkkpn33}
   - {type: substitution, offset: 1834, original: 說, replacement: 説, reason: scribal-variant-collapsed, mapping: {identifier: 'bkk:mapping/variant-fold-v1', hash: 'sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20', entry: vf-19811}}
@@ -773,6 +784,7 @@ markers:
   - {type: line-break, offset: 1921, content: '', id: KR4c0023_WYG_002-8a03}
   - {type: punctuation, offset: 1925, content: (, id: KR4c0023_krp_002-bkkpn34}
   - {type: variant, offset: 1925, length: 3, content: 一作屢, SBCK: ''}
+  - {type: voice, offset: 1925, length: 3, name: note, id: n12}
   - {type: punctuation, offset: 1927, content: /, id: KR4c0023_krp_002-bkkpn35}
   - {type: punctuation, offset: 1928, content: ), id: KR4c0023_krp_002-bkkpn36}
   - {type: variant, offset: 1929, length: 1, content: 懐, SBCK: 懷}
@@ -1025,6 +1037,7 @@ markers:
   - {type: line-break, offset: 2587, content: '', id: KR4c0023_WYG_002-10b05}
   - {type: indent, offset: 2587, content: 　　　, id: KR4c0023_krp_002-bkkind40}
   - {type: punctuation, offset: 2597, content: (, id: KR4c0023_krp_002-bkkpn37}
+  - {type: voice, offset: 2597, length: 2, name: note, id: n13}
   - {type: punctuation, offset: 2599, content: /, id: KR4c0023_krp_002-bkkpn38}
   - {type: punctuation, offset: 2599, content: ), id: KR4c0023_krp_002-bkkpn39}
   - {type: 'kr:newline', offset: 2599, content: '
@@ -1044,6 +1057,7 @@ markers:
   - {type: line-break, offset: 2639, content: '', id: KR4c0023_WYG_002-10b08}
   - {type: indent, offset: 2639, content: 　　　, id: KR4c0023_krp_002-bkkind41}
   - {type: punctuation, offset: 2646, content: (, id: KR4c0023_krp_002-bkkpn40}
+  - {type: voice, offset: 2646, length: 4, name: note, id: n14}
   - {type: punctuation, offset: 2650, content: /, id: KR4c0023_krp_002-bkkpn41}
   - {type: punctuation, offset: 2650, content: ), id: KR4c0023_krp_002-bkkpn42}
   - {type: 'kr:newline', offset: 2650, content: '
@@ -1137,4 +1151,4 @@ markers:
 
       ', id: KR4c0023_krp_002-bkkkrnewl197}
   back: []
-hash: sha256:622954a257f1988ddfb9642d01c741a35d0be769a75b6a7ed0508a4c8b7cd46a
+hash: sha256:5853b8c5a7cfae00f499d2f13fed363f5dd79be219d9dd4389e1ba8580ccb5d3
